@@ -19,4 +19,4 @@
 
 #### 課程大綱
 
-- [1. 開發環境](https://mirdex.github.io/pythonI_20220325/)
+- [1. 開發環境](https://mirdex.github.io/pythonI_20220325/1.%20environment.slides.html)
