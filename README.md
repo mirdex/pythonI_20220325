@@ -21,3 +21,4 @@
 
 - [1. 開發環境](https://mirdex.github.io/pythonI_20220325/1.%20environment.slides.html)
 - [2. 基本概念](https://mirdex.github.io/pythonI_20220325/2.%20basic%20concept.slides.html)
+- [3. 流程控制](https://mirdex.github.io/pythonI_20220325/3.%20流程控制(Q).slides.html)
